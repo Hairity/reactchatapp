@@ -1,7 +1,7 @@
 ## React Real-Time Chat APP
 
-For login: ##Username: Willy Wonka
-           ##Password: power
+For login: <b>Username</b>: Willy Wonka
+           <b>Password</b>: power
            
 Chatting app made with react where you can send messages and images. Choose between different chatrooms and choose who you talk with. It also shows if message has been seen or not. Made with React, socket.io, hooks and react-chat engine. Beautiful design with really smooth UI.
 
